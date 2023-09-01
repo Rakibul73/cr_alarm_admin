@@ -1,0 +1,1 @@
+#### It is a Admin App for [CR Alarm](https://github.com/Rakibul73/CR_Alarm) app - an automatic alarm based on latest tweet/post
